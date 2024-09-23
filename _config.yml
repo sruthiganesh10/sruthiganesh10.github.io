@@ -1,0 +1,37 @@
+# Site settings
+title: "Sruthi Ganesh"
+description: "This is my personal website where I share my projects, blog posts, and more."
+baseurl: "" # The subpath of your site, e.g. /blog, leave blank if you're hosting at root
+url: "https://sruthiganesh10.github.io" # The base URL of your website
+author: "Sruthi Ganesh"
+
+# Build settings
+theme: minima # Specify the Jekyll theme you want to use
+
+# Social links (optional)
+social_links:
+  github: https://github.com/sruthiganesh10
+  linkedin: https://www.linkedin.com/in/sai-sruthi-amirtha-ganesh-93281918b/
+  
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (optional)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# SEO settings
+seo:
+  title: "Sruthi Ganesh | Bioinformatics Analyst"
+  description: "Bioinformatics professional specializing in genetic analysis and bioinformatics pipelines."
+  github_username: sruthiganesh10
+
+# Include and Exclude settings (optional)
+include:
+  - _pages
+exclude:
+  - README.md
+  - node_modules
+  - vendor
