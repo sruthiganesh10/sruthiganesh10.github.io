@@ -1,5 +1,3 @@
-# sruthiganesh10.github.io
-
 # Hello, I'm Sruthi Ganesh 👋
 🌍 Los Angeles, CA  
 📫 saisruthi.amirthaganesh@gmail.com | [LinkedIn](https://www.linkedin.com/in/sai-sruthi-amirtha-ganesh-93281918b/) 
