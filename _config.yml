@@ -6,7 +6,7 @@ url: "https://sruthiganesh10.github.io" # The base URL of your website
 author: "Sruthi Ganesh"
 
 # Build settings
-theme: minima # Specify the Jekyll theme you want to use
+theme: cayman # Specify the Jekyll theme you want to use
 
 # Social links (optional)
 social_links:
