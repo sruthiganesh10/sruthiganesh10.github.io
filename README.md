@@ -1,37 +1,67 @@
-# Hello, I'm Sruthi Ganesh 👋
-🌍 Los Angeles, CA  
-📫 saisruthi.amirthaganesh@gmail.com | [LinkedIn](https://www.linkedin.com/in/sai-sruthi-amirtha-ganesh-93281918b/) 
+<p align="center">
+    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+</p>
 
-I am a **Bioinformatics Scientist** with expertise in analyzing complex genomics data, developing bioinformatics pipelines, and creating visualizations for large-scale datasets. My current work focuses on integrating genetic, neural, and immune signals to uncover insights in brain development, psychiatric disorders, and neurodegenerative diseases.
+<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
 
-## 🔧 Skills and Expertise
-### **Programming & Computing**
-- **Languages**: Python, R, Unix/Linux, Bash scripting, MySQL, C/C++
-- **Cloud Computing & HPC**: AWS, Slurm, SGE
-- **Scripting & Automation**: Bash, Python, workflow development with Snakemake, Nextflow
+***
 
-### **Bioinformatics Tools & Software**
-- **Data Analysis & Visualization**: Tableau, Jupyter, GitHub, Docker, Cytoscape, MATLAB, Minitab
-- **Workflow & Pipeline Management**: Galaxy, GATK, Snakemake, Nextflow
-- **Bioinformatics Libraries**: Pandas, Numpy, SciPy, Scikit-learn, QIIME, BWA, WGCNA, Seurat, LDSC, PLINK, GCTA, Regenie, SAIGE, Shapeit5
+<p align="center">
+    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    |
+    <b><a href="README.md#setup">Setup</a></b>
+    |
+    <b><a href="README.md#settings">Settings</a></b>
+    |
+    <b><a href="README.md#how-to">How to</a></b>
+</p>
 
-### **Genomic & Bioinformatics Techniques**
-- **Next Generation Sequencing (NGS)**: DNA-Seq, RNA-Seq, ChiP-Seq, ATAC-Seq, scRNA-Seq, Amplicon-Seq
-- **Genomic Analysis**: Sequence Alignment, Genome Assembly, Genome Graph Construction, GWAS, TWAS, Gene Ontology, Somatic Variant Calling, Admixture Mapping
-- **Statistical Techniques**: GWAS Meta-Analysis, Polygenic Risk Scores (PRS), Support-Vector Machines, PCA, Machine Learning, Local Ancestry Inference
+<p align="center">
+    Light and Dark themes.
+</p>
 
-### **ETL & Data Processing**
-- Expertise in building data processing workflows using **ETL methodologies** to optimize bioinformatics pipelines and reduce computational time by 50%.
-- Data harmonization across multiple datasets in the context of psychiatric and neurodevelopmental research.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
+</p>
 
+## What has inside
 
-## 📈 Recent Projects
-### **GWAS on Sensory Over-Responsivity in ASD**
-- Uncovering genetic underpinnings of sensory processing in ASD using Genome-wide association studies, genetic correlations and heritability.
+- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
+- Page Speed: [99~Desktop](https://pagespeed.web.dev/analysis/https-sergiokopplin-github-io-indigo/41axptm3as?utm_source=psi&utm_medium=redirect&form_factor=desktop);
 
-### **Multi-Ancestry Study understanding the link immune regulatory genes and brain structure**
-- Investigating the role of immune gene expression in brain development and structure across diverse ancestries by applying linear modeling to genetically regulated expression and neuroimaging metrics across multiple modalities.
+## Setup
 
-## 🎓 Education
-- **MS in Bioinformatics and Genomics** – Pennsylvania State University
-- **B.Tech in Biotechnology** – PSG College of Technology
+0. :star: to the project. :metal:
+1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+2. Edit `_config.yml` with your data
+3. Write some posts :bowtie:
+
+To run locally do the following:
+
+1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
+2. Clone the forked repo on your machine
+3. Enter the cloned folder via terminal and run:
+```sh
+bundle install
+bundle exec jekyll serve
+```
+4. Open it in your browser: [http://localhost:4000](http://localhost:4000)
+
+Or run with [docker](https://github.com/BretFisher/jekyll-serve).
+
+## Settings
+
+You can customize your site on `_config.yml` file.
+
+## How To?
+
+Check the [FAQ](./FAQ.md).
+
+---
+## License
+
+[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+
+---
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sergiokopplin/indigo&type=Date)](https://star-history.com/#sergiokopplin/indigo&Date)
